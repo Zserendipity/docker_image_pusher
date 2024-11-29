@@ -1,8 +1,8 @@
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#node-feature-discovery:v0.16.6
-python:alpine3.19
+registry.k8s.io/nfd/node-feature-discovery:v0.16.6
+#python:alpine3.19
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
