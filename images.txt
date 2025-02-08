@@ -7,4 +7,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-cr2.fit2cloud.com/1panel/maxkb:latest
+#cr2.fit2cloud.com/1panel/maxkb:latest
+krytro/aiaw:latest
