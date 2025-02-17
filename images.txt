@@ -10,4 +10,5 @@
 #cr2.fit2cloud.com/1panel/maxkb:latest
 #krytro/aiaw:latest
 #ollama/ollama:latest
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+vllm/vllm-openai:latest
