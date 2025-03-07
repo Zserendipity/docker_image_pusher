@@ -11,4 +11,5 @@
 #krytro/aiaw:latest
 #ollama/ollama:latest
 #ghcr.io/open-webui/open-webui:main
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
+metrics-server:v0.6.1
