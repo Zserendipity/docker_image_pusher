@@ -12,4 +12,5 @@
 #ollama/ollama:latest
 #ghcr.io/open-webui/open-webui:main
 #vllm/vllm-openai:latest
-k8s.gcr.io/metrics-server/metrics-server:v0.6.1
+#k8s.gcr.io/metrics-server/metrics-server:v0.6.1
+homeassistant/home-assistant:latest
