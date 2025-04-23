@@ -13,4 +13,5 @@
 #ghcr.io/open-webui/open-webui:main
 #vllm/vllm-openai:latest
 #k8s.gcr.io/metrics-server/metrics-server:v0.6.1
-homeassistant/home-assistant:latest
+#homeassistant/home-assistant:latest
+docker.n8n.io/n8nio/n8n
