@@ -15,4 +15,5 @@
 #k8s.gcr.io/metrics-server/metrics-server:v0.6.1
 #homeassistant/home-assistant:latest
 #docker.n8n.io/n8nio/n8n
-immauss/openvas
+#immauss/openvas
+clawdbot/clawdbot:latest
