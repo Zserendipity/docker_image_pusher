@@ -17,4 +17,4 @@
 #docker.n8n.io/n8nio/n8n
 #immauss/openvas
 #clawdbot/clawdbot:latest
-docker.io/library/ubuntu:22.04
+docker.io/library/ubuntu:22.04 --platform=linux/arm64
